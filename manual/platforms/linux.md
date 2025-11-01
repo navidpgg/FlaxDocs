@@ -6,7 +6,7 @@ Flax is compiled for Linux platform using **Clang** compiler and uses **X11** fo
 
 If your device has multiple GPUs installed you can select one using the cmd line argument: `-nvidia`, `-intel`, or `-amd`. Flax uses **Vulkan** for rendering.
 
-If your game build runs on Linux as a server build then you can pass `-mute -null -headless -std` command line arguments to disable specific features (audio, graphics, window, log to std). To elarn more about command line access see [this page](../editor/advanced/command-line-access.md).
+If your game build runs on Linux as a server build then you can pass `-mute -null -headless -std` command line arguments to disable specific features (audio, graphics, window, log to std). To learn more about command line access see [this page](../editor/advanced/command-line-access.md).
 
 ## Build options
 
